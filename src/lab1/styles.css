@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    height: 100vh;
+}
+
+.box1 {
+    background: #95F36C;
+    width: 100%;
+    height: 20%;
+    font-size: larger;
+    align-items: center;
+    font-weight: bold;
+    display: grid;
+    color: black;
+}
+
+.float.box2 {
+    background: #9191FC;
+    width: 25%;
+    height: 60%;
+    display: grid;
+    font-size: larger;
+    font-weight: bold;
+    align-items: center;
+    float: left;
+    color: black;
+}
+
+.float.box3 {
+    background: #B8E2F4;
+    display: grid;
+    align-items: center;
+    height: 60%;
+    font-size: larger;
+    font-weight: bold;
+    width: 75%;
+    float: left;
+    color: black;
+}
+
+.float.box4 {
+    background: #F9F3BB;
+    width: 100%;
+    font-size: larger;
+    align-items: center;
+    font-weight: bold;
+    height: 20%;
+    display: grid;
+    color: black;
+    float: right;
+}
+
+.float .content {
+    padding: 20px;
+    text-align: center;
+}
+
+.box3 .content{
+    margin-left: 30%;
+    text-align: left;
+}
