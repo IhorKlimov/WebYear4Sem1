@@ -1,0 +1,34 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    margin-top: 50px;
+    padding: 5px;
+    font-size: large;
+}
+
+img {
+    height: 200px;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.row .value {
+    margin-left: 10px;
+}
+
+.row.parent {
+    margin-top: 40px;
+    justify-content: center;
+}
+
+.row div {
+    margin-right: ;
+    margin-left: 10px;
+}
