@@ -1,0 +1,26 @@
+img {
+    height: 200px;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+label {
+    width: 100px;
+    display: block;
+}
+
+label.error {
+    color: red;
+}
+
+table, th, td {
+    border: black 1px solid;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+}
