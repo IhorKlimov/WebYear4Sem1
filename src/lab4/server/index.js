@@ -1,4 +1,3 @@
-const { log } = require('node:console');
 const { createServer } = require('node:http');
 const { Server } = require("socket.io");
 
