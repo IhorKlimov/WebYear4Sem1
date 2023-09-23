@@ -1,0 +1,14 @@
+{
+  "ok": true,
+  "result": {
+    "id": 6671110150,
+    "is_bot": true,
+    "first_name": "WeatherKPIDemoBot",
+    "username": "weather_kpi_it_bot",
+    "can_join_groups": true,
+    "can_read_all_group_messages": false,
+    "supports_inline_queries": false
+  }
+}
+
+ 6671110150:AAF9Lxn3QEdccJH9sDrn34ejHdmUd1sXyyU
