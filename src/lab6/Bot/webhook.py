@@ -5,7 +5,6 @@ import logging
 import sys
 import requests
 import os
-from os import getenv
 
 from aiohttp import web
 
